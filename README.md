@@ -1,4 +1,4 @@
-<h1>stone paper scissor game </h1>
+<h1>Stone Paper Scissor Game </h1>
 <h2>Tech Stack</h2>
 <h4>client : html , css , javascript </h4>
 
